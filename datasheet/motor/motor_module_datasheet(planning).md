@@ -19,3 +19,22 @@
 
 
 RobStride 产品信息：https://github.com/RobStride/Product_Information.git
+
+
+| 参数 | RobStride 00 | RobStride 10P | Unitree IM6014 |
+|---|---:|---:|---:|
+| 峰值扭矩 | 14 N·m | 42 N·m | 34.4 N·m |
+| 额定/持续扭矩 | 约 5 N·m @ 100 rpm | 约 14 N·m（需满足散热条件） | 官方主要给出峰值及性能曲线 |
+| 重量 | 310 g | 460 g | 535 g |
+| 外形尺寸 | 约 57 × 57 × 51 mm | 约 Φ57 × 59.1 mm | 约 Φ65 × 60 mm |
+| 减速比 | 10:1 | 25:1 | 约 12.66:1 |
+| 最高/空载转速 | 约 315 rpm | 约 125 rpm | 约 54.2 rad/s（≈518 rpm） |
+| 额定电压 | 48 V | 48 V | 典型 48 V 级应用 |
+| 输入电压范围 | 24–60 V | 15–60 V | 24–75 V |
+| 通信接口 | CAN，1 Mbps | CAN，1 Mbps | RS-485，4/6 Mbps |
+| 编码器 | 双磁编码器 | 双磁编码器 | 双绝对值编码器 |
+| 控制能力 | 位置 / 速度 / 力矩等 | 位置 / 速度 / 力矩等 | 位置 / 速度 / 力矩 / 刚度等 |
+
+
+
+RobStride 产品信息：https://github.com/RobStride/Product_Information.git
